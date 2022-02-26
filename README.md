@@ -1,6 +1,8 @@
 Name -Pushkar Kapil
+
 Product- Coasters 
-Deciding the properties of the product- Name ,Image ,Price ,Quantity, Id ,
+
+Deciding the properties of the product-Id, Name ,Image ,Price ,Quantity,Review
 
 
 
@@ -28,7 +30,7 @@ Deciding the properties of the product- Name ,Image ,Price ,Quantity, Id ,
 
 9:40 pm – took a break
 
-10:00pm - created properties like name, image ,price ,quality , Id
+10:00pm - created properties like Id , name, image ,price ,quality , Review
 
 
 
